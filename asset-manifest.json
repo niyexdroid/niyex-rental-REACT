@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/niyex-rental-REACT/static/css/main.37aec1e7.css",
+    "main.js": "/niyex-rental-REACT/static/js/main.26249b69.js",
+    "static/media/black-panther-rent.jpg": "/niyex-rental-REACT/static/media/black-panther-rent.5111c02ba23413a517b5.jpg",
+    "static/media/movies.jpg": "/niyex-rental-REACT/static/media/movies.2162b43c1188ce988b07.jpg",
+    "static/media/star-wars-rent.jpeg": "/niyex-rental-REACT/static/media/star-wars-rent.397d6f90ec0416287f25.jpeg",
+    "static/media/oceans-8-rent.jpg": "/niyex-rental-REACT/static/media/oceans-8-rent.79af85474a9e587820d3.jpg",
+    "static/media/avengers.jpg": "/niyex-rental-REACT/static/media/avengers.37afa75215dc1fe50fc8.jpg",
+    "static/media/justice-league.jpg": "/niyex-rental-REACT/static/media/justice-league.271aecf0e2a6010cad65.jpg",
+    "static/media/predator-rent.jpg": "/niyex-rental-REACT/static/media/predator-rent.9fe3e95c61240cc3a944.jpg",
+    "static/media/beyond-good-and-evil.jpg": "/niyex-rental-REACT/static/media/beyond-good-and-evil.1944aef2f9f1614177be.jpg",
+    "static/media/12-strong-rent.jpg": "/niyex-rental-REACT/static/media/12-strong-rent.af71a5a199df87b9f79e.jpg",
+    "static/media/sherlockgnomes-rent.jpg": "/niyex-rental-REACT/static/media/sherlockgnomes-rent.79098188682f90805839.jpg",
+    "static/media/avengers-rent.jpg": "/niyex-rental-REACT/static/media/avengers-rent.6a2b7aaa6c5bbb20ef0d.jpg",
+    "static/media/lawbreakers.jpg": "/niyex-rental-REACT/static/media/lawbreakers.cf1fc9430216ba58f1ad.jpg",
+    "static/media/rampage-rent.jpg": "/niyex-rental-REACT/static/media/rampage-rent.59d7478ff8ce64980ed2.jpg",
+    "static/media/ted-rent.jpg": "/niyex-rental-REACT/static/media/ted-rent.f381f3b1dcad225abd4b.jpg",
+    "static/media/star-wars-battlefront.jpg": "/niyex-rental-REACT/static/media/star-wars-battlefront.713a5d68efbc51af62f1.jpg",
+    "static/media/minions.jpg": "/niyex-rental-REACT/static/media/minions.9b9a3b8ec32fb09a0b55.jpg",
+    "static/media/mission-impossible.jpg": "/niyex-rental-REACT/static/media/mission-impossible.0be6eb5434117eee29bc.jpg",
+    "static/media/king.png": "/niyex-rental-REACT/static/media/king.90bc1129006d10d6d41e.png",
+    "static/media/avatar-2-rent.jpg": "/niyex-rental-REACT/static/media/avatar-2-rent.bb2b9404d26cfa052549.jpg",
+    "static/media/logo.png": "/niyex-rental-REACT/static/media/logo.344f0e547aa050940bd0.png",
+    "static/media/sabuni.jpg": "/niyex-rental-REACT/static/media/sabuni.f640ce96c892a50e0850.jpg",
+    "static/media/niyi.jpg": "/niyex-rental-REACT/static/media/niyi.e544ab846aee1a81df44.jpg",
+    "static/media/braids.jpg": "/niyex-rental-REACT/static/media/braids.31e305f6e787ea6bed7f.jpg",
+    "index.html": "/niyex-rental-REACT/index.html",
+    "main.37aec1e7.css.map": "/niyex-rental-REACT/static/css/main.37aec1e7.css.map",
+    "main.26249b69.js.map": "/niyex-rental-REACT/static/js/main.26249b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37aec1e7.css",
+    "static/js/main.26249b69.js"
+  ]
+}
